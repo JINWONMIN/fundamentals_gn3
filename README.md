@@ -13,3 +13,4 @@
 |polyhedron_dice|Create a polyhedron dice|[Click](https://github.com/JINWONMIN/fundamentals_gn3/tree/master/polyhedron_dice)|
 |scikit_learn|Machine Learining to be implemented with a Scikit-Learn|[Click](https://github.com/JINWONMIN/fundamentals_gn3/blob/master/scikit_learn/scikit_learn.ipynb)|
 |tensorflow|Image classification; Backbone of CNN|[Click](https://github.com/JINWONMIN/fundamentals_gn3/tree/master/tensorflow)|
+|regression|Linear Regression and Logistic Resgression|[Click](https://github.com/JINWONMIN/fundamentals_gn3/tree/master/regression)|
