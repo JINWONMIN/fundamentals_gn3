@@ -14,3 +14,4 @@
 |scikit_learn|Machine Learining to be implemented with a Scikit-Learn|[Click](https://github.com/JINWONMIN/fundamentals_gn3/blob/master/scikit_learn/scikit_learn.ipynb)|
 |tensorflow|Image classification; Backbone of CNN|[Click](https://github.com/JINWONMIN/fundamentals_gn3/tree/master/tensorflow)|
 |regression|Linear Regression and Logistic Resgression|[Click](https://github.com/JINWONMIN/fundamentals_gn3/tree/master/regression)|
+|21|TF2 API|[Click](https://github.com/JINWONMIN/fundamentals_gn3/blob/master/21/tf2_api.ipynb)|
