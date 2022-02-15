@@ -17,3 +17,4 @@
 |21|TF2 API|[Click](https://github.com/JINWONMIN/fundamentals_gn3/blob/master/21/tf2_api.ipynb)|
 |deep_network|Deep Network(VGG-16, ResNet)|[Click](https://github.com/JINWONMIN/fundamentals_gn3/blob/master/deep_network/Deep%20Network.ipynb)|
 |deconvolution_layer|Deconvolution(upsampling, transposed;)|[Click](https://github.com/JINWONMIN/fundamentals_gn3/blob/master/deconvolution_layer/deconvolution.ipynb)|
+|gan|Deep Convolutional GAN|[Click](https://github.com/JINWONMIN/fundamentals_gn3/tree/master/gan)|
