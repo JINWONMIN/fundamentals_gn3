@@ -18,4 +18,4 @@
 |deep_network|Deep Network(VGG-16, ResNet)|[Click](https://github.com/JINWONMIN/fundamentals_gn3/blob/master/deep_network/Deep%20Network.ipynb)|
 |deconvolution_layer|Deconvolution(upsampling, transposed;)|[Click](https://github.com/JINWONMIN/fundamentals_gn3/blob/master/deconvolution_layer/deconvolution.ipynb)|
 |gan|Deep Convolutional GAN|[Click](https://github.com/JINWONMIN/fundamentals_gn3/tree/master/gan)|
-|data_analysis|[Click](https://github.com/JINWONMIN/fundamentals_gn3/tree/master/data_analysis)|
+|data_analysis|data_analysis(loss function & gredient calculation, prediction model fit |[Click](https://github.com/JINWONMIN/fundamentals_gn3/tree/master/data_analysis)|
